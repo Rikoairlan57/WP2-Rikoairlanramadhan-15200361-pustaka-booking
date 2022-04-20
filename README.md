@@ -1,6 +1,4 @@
-###################
-What is CodeIgniter
-###################
+# What is CodeIgniter
 
 CodeIgniter is an Application Development Framework - a toolkit - for people
 who build web sites using PHP. Its goal is to enable you to develop projects
@@ -10,12 +8,12 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
-#Tugas
+# Tugas
 
 - Membuat Form Matakuliah ✔
 - Membuat Template Sederhana ✔
 
-#Website Pustaka Booking
+# Website Pustaka Booking
 
 - Membuat Database ✔
 - Membuat Admin Dashboard ✔
@@ -26,10 +24,10 @@ for a given task.
 - Membuat Login/Daftar user ✔
 - Finish ✔
 
-#Frontend
+# Frontend
 
 ![Frontend](ss/Frondend.png)
 
-#Backend
+# Backend
 
 ![Backend](ss/Backend.png)
