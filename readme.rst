@@ -38,4 +38,4 @@ Website Pustaka Booking
 Frontend
 ########
 
-![frontend](assets/img/ss/Backend.png)
+![frontend](assets/img/ss/Frondend.png)
